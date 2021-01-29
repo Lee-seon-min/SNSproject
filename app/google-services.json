@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "772186131600",
+    "project_id": "snsproj-70f66",
+    "storage_bucket": "snsproj-70f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772186131600:android:c5c8ec5de0ff7ea2985c15",
+        "android_client_info": {
+          "package_name": "org.messanger.snsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772186131600-3tiq8hq2iu5121hspbekctu3dtoetd7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.messanger.snsproject",
+            "certificate_hash": "34f154d0b65143c0546ab70e204bf19778ab958d"
+          }
+        },
+        {
+          "client_id": "772186131600-fnj8o3pvv62sn0mag079bbs8bk9jm3sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADSG0jB7QFtmxbgnp6oD9Xl6GFnKqxHAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772186131600-fnj8o3pvv62sn0mag079bbs8bk9jm3sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
